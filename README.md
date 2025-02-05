@@ -1,8 +1,14 @@
 # My - Personal portfolio
-
+<!-- 
 ![GitHub repo size](https://img.shields.io/github/repo-size/arafat-cse/arafat.com)
 ![GitHub stars](https://img.shields.io/github/stars/arafat-cse/arafat.com?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/arafat-cse/Courier-Delivery-Management?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/arafat_dev2008?style=social)](https://x.com/arafat_dev2008)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=social&logo=facebook)](https://www.facebook.com/arafat.dev2008/) -->
+
+![GitHub repo size](https://img.shields.io/github/repo-size/arafat-cse/arafat.com)
+![GitHub stars](https://img.shields.io/github/stars/arafat-cse/arafat.com?style=social)
+![GitHub forks](https://img.shields.io/github/forks/arafat-cse/arafat.com?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/arafat_dev2008?style=social)](https://x.com/arafat_dev2008)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=social&logo=facebook)](https://www.facebook.com/arafat.dev2008/)
 
