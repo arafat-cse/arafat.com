@@ -6,11 +6,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/arafat_dev2008?style=social)](https://x.com/arafat_dev2008)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=social&logo=facebook)](https://www.facebook.com/arafat.dev2008/) -->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/arafat-cse/arafat.com)
-![GitHub stars](https://img.shields.io/github/stars/arafat-cse/arafat.com?style=social)
-![GitHub forks](https://img.shields.io/github/forks/arafat-cse/arafat.com?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/arafat-cse/arafat.com?v=1)
+![GitHub stars](https://img.shields.io/github/stars/arafat-cse/arafat.com?style=social&v=1)
+![GitHub forks](https://img.shields.io/github/forks/arafat-cse/arafat.com?style=social&v=1)
 [![Twitter Follow](https://img.shields.io/twitter/follow/arafat_dev2008?style=social)](https://x.com/arafat_dev2008)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=social&logo=facebook)](https://www.facebook.com/arafat.dev2008/)
+
 
 
 vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
